@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#header{
+    padding: 15px 75% 15px 25%;
+}
+header h1{
+    font-size: 18px;
+}
+
+#capa {
+    background-image: url("/img/capa.jpg");
+    background-size: cover;
+    height: 37vh;
+    width: 100%;
+}
+
+#sobrecapa{
+    text-align: right;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 40px 20%;
+    font-size: 12px;
+    font-weight: 0;
+
+}
+
+#sobrenos h3{
+    margin-bottom: 1%;
+}
+
+#sobrenos{
+    padding: 50px 3%;
+    font-size: 15px;
+    width: 60%;
+    margin:0 auto;
+}
+#imagens{
+    width: 100%;
+    padding: 0 10%;
+    margin: 0 auto;
+}
+
+.imgs{
+    width: 25%;
+    margin: 2% 0;
+}
+
+.topicos{
+    border-left: 2px;
+    border-color: #000;
+    border-style: solid;
+    margin: 5px 0;
+    padding-left: 7px ;
+}
+
+#contato{
+    text-align: center;
+    background-color: red;
+    height: 80px;
+
+}
+
+#contato div{
+    background-color: #992121;
+    padding: 10px 0;
+    color: white;
+}
