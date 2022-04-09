@@ -62,12 +62,10 @@ header h1{
 #contato{
     text-align: center;
     background-color: red;
-    height: 80px;
+    height: 100px;
 
-}
-
-#contato div{
+#contato1 {
     background-color: #992121;
-    padding: 10px 0;
     color: white;
+    padding: 30px;
 }
