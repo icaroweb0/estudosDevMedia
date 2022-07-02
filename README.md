@@ -27,7 +27,7 @@ Então:
   - [x] Variáveis e operadores  
   - [x] Objetos  
   - [x] Estruturas condicionais  
-  - [ ] Inputs  
+  - [x] Inputs  
   - [ ] Array  
   - [ ] Estruturas de repetição  
   - [ ] Manipulação de Strings  
