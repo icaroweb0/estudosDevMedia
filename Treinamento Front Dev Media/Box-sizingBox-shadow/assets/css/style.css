@@ -1,0 +1,88 @@
+body{
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.topo {
+    width: 100%;
+    font-size: 22px;    
+    background-color: #4710c1;
+    color: white;
+    padding: 25px 0;      
+}
+
+.topo div{
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.topo span{
+    margin: 0 30px;
+}
+
+.topo a{
+    color: #4710c1;
+    background-color: #fff;
+    text-decoration: none;
+    padding: 7px 15px;
+    margin: 0 6px;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.imgcapa {
+    width: 100%;
+}
+
+.secao {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.secao h2 {    
+    text-align: center;
+    margin: 30px 0;
+}
+
+.secao p {
+    width: 100%;
+    font-size: 16px;
+    line-height: 30px;
+    margin: 12px 0;
+}
+
+.secao img {
+    width: 100%;
+}
+
+.secao a {
+    color: blue;
+}
+
+.galeria {
+    display: flex;
+    overflow-x: scroll;
+    margin: 0 auto 20px auto;
+}
+
+.galeria img {
+    width: 315px;
+    margin: 10px;
+}
+.informacao {
+    margin: 15px auto;
+}
+
+.rodape {
+    width: 100%;
+    font-size: 16px;
+    text-align: center;
+    background: #4710c1;
+    color: #fff;
+    padding: 12px 0;
+}
